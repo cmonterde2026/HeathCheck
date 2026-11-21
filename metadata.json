@@ -1,0 +1,6 @@
+{
+  "name": "HealthCheck – Personal Health Monitoring System",
+  "description": "Personal health monitoring web application with a general symptom checker, automatic BMI calculator, daily wellness tracker, evidence-informed health tips, and Firebase Authentication readiness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
